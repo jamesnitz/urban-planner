@@ -1,0 +1,11 @@
+C:\Users\james\workspace\csharp\exercises\Planner\Planner\bin\Debug\netcoreapp3.1\Planner.exe
+C:\Users\james\workspace\csharp\exercises\Planner\Planner\bin\Debug\netcoreapp3.1\Planner.deps.json
+C:\Users\james\workspace\csharp\exercises\Planner\Planner\bin\Debug\netcoreapp3.1\Planner.runtimeconfig.json
+C:\Users\james\workspace\csharp\exercises\Planner\Planner\bin\Debug\netcoreapp3.1\Planner.runtimeconfig.dev.json
+C:\Users\james\workspace\csharp\exercises\Planner\Planner\bin\Debug\netcoreapp3.1\Planner.dll
+C:\Users\james\workspace\csharp\exercises\Planner\Planner\bin\Debug\netcoreapp3.1\Planner.pdb
+C:\Users\james\workspace\csharp\exercises\Planner\Planner\obj\Debug\netcoreapp3.1\Planner.csprojAssemblyReference.cache
+C:\Users\james\workspace\csharp\exercises\Planner\Planner\obj\Debug\netcoreapp3.1\Planner.AssemblyInfoInputs.cache
+C:\Users\james\workspace\csharp\exercises\Planner\Planner\obj\Debug\netcoreapp3.1\Planner.AssemblyInfo.cs
+C:\Users\james\workspace\csharp\exercises\Planner\Planner\obj\Debug\netcoreapp3.1\Planner.dll
+C:\Users\james\workspace\csharp\exercises\Planner\Planner\obj\Debug\netcoreapp3.1\Planner.pdb
